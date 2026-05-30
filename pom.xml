@@ -78,9 +78,11 @@
 			<scope>test</scope>
 		</dependency>
 		<!-- DB migration tool (Flyway) to manage schema changes and backfills -->
+		<!-- pom.xml -->
 		<dependency>
 			<groupId>org.flywaydb</groupId>
 			<artifactId>flyway-core</artifactId>
+			<version>10.21.0</version> <!-- ou mais recente -->
 		</dependency>
 	</dependencies>
 
