@@ -1,9 +1,3 @@
-application.properties
-HELP.md
-cookie.txt
-cookies.txt
-login.html
-response.txt
 target/
 .mvn/wrapper/maven-wrapper.jar
 *.log
